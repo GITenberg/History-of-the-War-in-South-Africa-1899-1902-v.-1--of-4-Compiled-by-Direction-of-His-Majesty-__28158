@@ -1,0 +1,33 @@
+_repo: History-of-the-War-in-South-Africa-1899-1902-v.-1--of-4-Compiled-by-Direction-of-His-Majesty-__28158
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Maurice, John Frederick, Sir
+    birthdate: 1841
+    deathdate: 1912
+    gutenberg_agent_id: '33169'
+    url: http://www.gutenberg.org/2009/agents/33169
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Great Britain. War Office
+    gutenberg_agent_id: '33178'
+    url: http://www.gutenberg.org/2009/agents/33178
+description: ''
+gutenberg_issued: '2009-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28158'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'South African War, 1899-1902'
+title: 'History of the War in South Africa 1899-1902 v. 1 (of 4)
+
+  Compiled by Direction of His Majesty''s Government'
+url: http://www.gutenberg.org/ebooks/28158
